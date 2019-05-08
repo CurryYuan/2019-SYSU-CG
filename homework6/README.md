@@ -160,4 +160,4 @@ void main()
 
 ### 实验截图
 
-![1556270141444](D:/github code/2019-SYSU-CG/homework6/assets/1556270141444.png)
+![1556270141444](assets/1556270141444.png)
